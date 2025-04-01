@@ -1,0 +1,10 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Processed image output
+data/processed/
