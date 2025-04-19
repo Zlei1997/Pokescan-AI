@@ -47,6 +47,7 @@ python scripts/train_model.py
 Once model is finished training, you can load the model with:
 
 python scripts/test_inference.py
+
 ---
 
 ## ⚠️ Known Issues  
