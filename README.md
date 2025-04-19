@@ -2,7 +2,7 @@
 AI model to recognize Pokémon trading cards using Kria board
 
 ## 📌 Project Overview  
-PokéScan-AI is a small edge AI project built to detect and classify Pokémon trading cards using computer vision. The goal is to run this on a Xilinx Kria board so it can recognize cards in real time.
+PokéScan-AI is a small edge AI project built to detect and classify Pokémon trading cards. The goal is to run this on a Xilinx Kria board so it can recognize cards in real time.
 
 Right now, the project can:
 - Preprocess card images
@@ -18,7 +18,7 @@ Planned (but not all completed):
 ## 📁 Directory Structure  
 - `data/` – raw and processed image folders  
 - `scripts/` – Python scripts for preprocessing and training  
-- `models/` – saved trained model (epoch 70)  
+- `models/` – saved trained model  
 - `vitis_ai/` – files related to compiling with Vitis AI  
 - `requirements.txt` – Python dependencies  
 
@@ -44,7 +44,7 @@ Once data is processed, you can train the model with:
 python scripts/train_model.py
 
 ### 4. **Run inference**
-Once model is finished training, you can load the model with:
+Once the model is finish training, you can load the model with:
 
 python scripts/test_inference.py
 
