@@ -68,4 +68,14 @@ python scripts/test_inference.py
 ## 🙌 Credits  
 Created by Ming Lei  
 Oakland University 
-GitHub: [Zlei1997](https://github.com/Zlei1997)
+
+## 📁 Dataset Note  
+Due to GitHub file size limitations, the full Pokémon card image dataset used for training and testing could not be uploaded to this repository.
+
+The original dataset was downloaded from Kaggle:  
+🔗 [Pokémon Card Database - Kaggle](https://www.kaggle.com/datasets/stevenu/pokemon-card-database)
+
+The dataset is provided as one large unorganized set of images. Before training the model, I preprocessed the images and split them into training, validation, and testing folders using a 60/20/20 ratio.  
+
+Only a small sample of inference images is included here for reference. The full dataset was used locally during development.
+
