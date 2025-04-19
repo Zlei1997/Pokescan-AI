@@ -77,5 +77,9 @@ The original dataset was downloaded from Kaggle:
 
 The dataset is provided as one large unorganized set of images. Before training the model, I preprocessed the images and split them into training, validation, and testing folders using a 60/20/20 ratio.  
 
+![image](https://github.com/user-attachments/assets/9717f7ed-758d-49d3-98f1-2dcc9c92f4cf)
+![image](https://github.com/user-attachments/assets/bddcff10-e23d-44ba-bfed-aeb79abee389)
+
 Only a small sample of inference images is included here for reference. The full dataset was used locally during development.
+
 
