@@ -36,9 +36,10 @@ To resize and format the dataset:
 
 python scripts/preprocess.py
 
+Additional scripts are provided to help organize and clean the dataset, including splitting it into training, validation, and testing sets, balancing class distribution, and filtering out underrepresented classes.
+
 ### 3. **Train the model**  
 Once data is processed, you can train the model with:
-
 
 python scripts/train_model.py
 
