@@ -70,6 +70,7 @@ python scripts/test_inference.py
 ## 🙌 Credits  
 Created by Ming Lei  
 Oakland University 
+Github Username: Zlei1997
 
 ## 📁 Dataset Note  
 Due to GitHub file size limitations, the full Pokémon card image dataset used for training and testing could not be uploaded to this repository.
